@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:07.29,0:00:09.54,Default,,0,0,0,,又是你  真假的\N{\fs12}You again，really
 Dialogue: 0,0:00:09.54,0:00:11.54,Default,,0,0,0,,怎么  你在干的事情\N{\fs12}What? What could you possibly have been doing
 Dialogue: 0,0:00:11.54,0:00:12.83,Default,,0,0,0,,比看上周的无耻之徒都重要吗\N{\fs12}more important than watching the show last week?
-Dialogue: 0,0:00:12.83,0:00:14.66,Default,,0,0,0,,看看你都错过了什么\N{\fs12}Here's what you missed.
+Dialogue: 0,0:00:12.83,0:00:14.66,Default,,0,0,0,,看看你都错过了是什么\N{\fs12}Here's what you missed.
 Dialogue: 0,0:00:14.66,0:00:16.79,Default,,0,0,0,,来  托托\N{\fs12}Come on, Toto.
 Dialogue: 0,0:00:16.79,0:00:19.83,Default,,0,0,0,,别跟着我了\N{\fs12}Stop following me.
 Dialogue: 0,0:00:19.83,0:00:22.37,Default,,0,0,0,,我们有上帝赋予我们的权力\N{\fs12}We have the God-given right
@@ -927,7 +927,7 @@ Dialogue: 0,0:43:28.37,0:43:29.66,Default,,0,0,0,,我是说  你是个臭表脸�
 Dialogue: 0,0:43:33.29,0:43:36.29,Default,,0,0,0,,
 Dialogue: 0,0:43:39.00,0:43:41.33,Default,,0,0,0,,我杀了你  混蛋\N{\fs12}Fucking kill you, you motherfucker!
 Dialogue: 0,0:43:41.33,0:43:43.33,Default,,0,0,0,,
-Dialogue: 0,0:43:44.41,0:43:47.08,Default,,0,0,0,,你死定了  臭小子\N{\fs12}You're a dead man, motherfucker!
+Dialogue: 0,0:43:44.41,0:43:47.08,Default,,0,0,0,,你死定了  臭按时大大所小子\N{\fs12}You're a dead man, motherfucker!
 Dialogue: 0,0:43:47.08,0:43:48.58,Default,,0,0,0,,放手\N{\fs12}Let go!
 Dialogue: 0,0:43:48.58,0:43:50.37,Default,,0,0,0,,你死定了\N{\fs12}You're fucking dead!
 Dialogue: 0,0:43:50.37,0:43:52.45,Default,,0,0,0,,我要杀死你  傻逼  听到了吗\N{\fs12}I'll fucking kill you, you motherfucker! You hear me?
@@ -1068,7 +1068,7 @@ Dialogue: 0,0:52:06.87,0:52:09.95,Default,,0,0,0,,瘾君子  鸡\N{\fs12}a junki
 Dialogue: 0,0:52:17.00,0:52:19.00,Default,,0,0,0,,我们不要当受害者\N{\fs12}We will not be victims.
 Dialogue: 0,0:52:43.70,0:52:44.58,Default,,0,0,0,,天啊\N{\fs12}Jesus.
 Dialogue: 0,0:52:44.58,0:52:46.58,Default,,0,0,0,,这是什么啊  死尸吗\N{\fs12}What do you got in there, a dead body?
-Dialogue: 0,0:52:46.58,0:52:48.70,Default,,0,0,0,,她应该还没死吧\N{\fs12}I do not believe she's dead yet.
+Dialogue: 0,0:52:46.58,0:52:48.70,Default,,0,0,0,,她应该屌的屌的还没死吧\N{\fs12}I do not believe she's dead yet.
 Dialogue: 0,0:52:48.70,0:52:50.83,Default,,0,0,0,,
 Dialogue: 0,0:52:57.45,0:53:02.83,Default,,0,0,0,,* We're livin' the dream *
 Dialogue: 0,0:17:45.89,0:17:47.89,Default,,0,0,0,,
