@@ -1050,7 +1050,7 @@ Dialogue: 0,0:50:39.54,0:50:41.54,Default,,0,0,0,,宝贝\N{\fs12}Oh, baby...
 Dialogue: 0,0:50:42.66,0:50:45.04,Default,,0,0,0,,扳手是吧\N{\fs12}A wrench, huh?
 Dialogue: 0,0:50:45.04,0:50:46.75,Default,,0,0,0,,是啊  扳手\N{\fs12}Yeah, a wrench.
 Dialogue: 0,0:50:46.75,0:50:49.54,Default,,0,0,0,,
-Dialogue: 0,0:51:10.58,0:51:15.08,Default,,0,0,0,,好像是有人用钢锯给你锯下去的\N{\fs12}Jesus, it looks like somebody sawed them off with a hacksaw.
+Dialogue: 0,0:51:10.58,0:51:15.08,Default,,0,0,0,,好像是大萨达撒所大所多有人用钢锯给你锯下去的\N{\fs12}Jesus, it looks like somebody sawed them off with a hacksaw.
 Dialogue: 0,0:51:15.08,0:51:16.70,Default,,0,0,0,,工伤事故\N{\fs12}Work accident.
 Dialogue: 0,0:51:16.70,0:51:19.20,Default,,0,0,0,,管子掉我脚上把它们直接砍掉了\N{\fs12}A pipe fell down and cut 'em right off.
 Dialogue: 0,0:51:19.20,0:51:20.66,Default,,0,0,0,,管子还会烧灼伤口吗\N{\fs12}Did the pipe cauterize them too?
